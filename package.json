@@ -1,14 +1,14 @@
 {
   "name": "@fxreact/core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "pure react components",
-  "main": "dist/fxreact.js",
+  "main": "dist/core.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fxreact/FXReact.git"
+    "url": "git+https://github.com/fxreact/core.git"
   },
   "keywords": [
     "fxreact",
@@ -19,7 +19,7 @@
   "author": "thelambdaparty",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fxreact/FXReact/issues"
+    "url": "https://github.com/fxreact/core/issues"
   },
-  "homepage": "https://github.com/fxreact/FXReact#readme"
+  "homepage": "https://github.com/fxreact/core#readme"
 }
