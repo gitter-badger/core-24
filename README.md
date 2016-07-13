@@ -23,6 +23,8 @@
 
 ## About
 
+[![Join the chat at https://gitter.im/fxreact/core](https://badges.gitter.im/fxreact/core.svg)](https://gitter.im/fxreact/core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Ability to easily create [pure react components](http://hadrianoliveira.com/pure-react-components/).
 
 The project is in active development, alpha stage, contributions and opinions welcome.
